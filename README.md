@@ -12,7 +12,6 @@ This is a simple Python mini-project to simulate an automated sprinkler system b
 ---
 
 ## Simulation Code:
-'''python
 water_level = 25
 
 if water_level < 30:
