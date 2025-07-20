@@ -22,6 +22,8 @@ elif water_level > 80:
 else:
     print("Water level normal")
 
-Built by:
+---
+
+## Simulation Code:
 Niya Paul
 Kochi, Kerala
