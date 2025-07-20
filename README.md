@@ -24,6 +24,7 @@ else:
 ```
 ---
 
-## Simulation Code:
+## Built by:
 Niya Paul
+
 Kochi, Kerala
