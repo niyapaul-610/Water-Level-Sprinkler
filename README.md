@@ -21,7 +21,7 @@ elif water_level > 80:
     print("Sprinkler OFF")
 else:
     print("Water level normal")
-
+```
 ---
 
 ## Simulation Code:
